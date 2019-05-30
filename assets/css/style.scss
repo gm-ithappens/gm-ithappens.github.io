@@ -4,30 +4,27 @@
 @import 'jekyll-theme-architect';
 
 header a.logo-ithappens {
-
     position: absolute;
     top: 0;
     right: 0;
     background: transparent url(../images/ithappens.jpg) 0 0 no-repeat;
-        background-size: auto;
+    background-size: auto;
     background-size: 200px;
-
 }
 
 a.logo-ithappens{
-width: 134px;
+    width: 134px;
+    height: 158px;
+    padding-top: 22px;
+    padding-left: 68px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 23px;
+    line-height: 1.2;
+    color: #fff;
+}
 
-height: 158px;
-
-padding-top: 22px;
-
-padding-left: 68px;
-
-font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-
-font-size: 23px;
-
-line-height: 1.2;
-
-color: #fff;
+@media only screen and (max-width: 767px) {
+    header a.logo-ithappens {
+        display: none;
+    }
 }
