@@ -3,3 +3,4 @@ description: Open source Community of Technology team at It Happens
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+content: content.html
