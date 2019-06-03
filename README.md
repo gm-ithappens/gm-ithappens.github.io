@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Test at It Happens
+Siga as instruções abaixo.
 
-You can use the [editor on GitHub](https://github.com/gm-ithappens/gm-ithappens.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Passos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Faça um Fork teste respositório.
+2. Siga atentamente as instruções da prova em avaliacao/prova.pdf
+3. Quando finalizar o teste faça um *pull request*
+4. Aguarde os próximos passos.
 
-### Markdown
+### Sobre a Avaliação
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gm-ithappens/gm-ithappens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Serão avaliados os seguintes pontos:
+>
+> * Organização do Código
+> * Técnicas, padrões e ferramentas utilizados
+> * Objetividade
+> * Prazo de Entrega
