@@ -3,8 +3,8 @@ Siga as instruções abaixo.
 
 ### Passos
 
-1. Faça um Fork do respositório [test-ithappens-1202](https://github.com/gm-ithappens/test-ithappens-1202) .
-2. Siga atentamente as instruções da prova em avaliacao/prova-1202.pdf
+1. Faça um Fork do respositório [test-ithappens-1303](https://github.com/gm-ithappens/test-ithappens-1303) .
+2. Siga atentamente as instruções da prova em avaliacao/prova-1303.pdf
 3. Quando finalizar o teste faça um *pull request*
 4. Aguarde os próximos passos.
 
