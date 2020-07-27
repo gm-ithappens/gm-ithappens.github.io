@@ -13,8 +13,8 @@ Siga as instruções abaixo.
 
 ### Passos para a Prova de Backend - Java
 
-1. Faça um _Fork_ do respositório [test-ithappens-1304](https://github.com/gm-ithappens/test-ithappens-1304) .
-2. Siga atentamente as instruções da prova em avaliacao/prova-1304.pdf
+1. Faça um _Fork_ do respositório [test-ithappens-1308](https://github.com/gm-ithappens/test-ithappens-1308) .
+2. Siga atentamente as instruções da prova em avaliacao/prova-1308.pdf
 
 ### Sobre a Avaliação
 
